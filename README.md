@@ -2,7 +2,7 @@
 Terrain builder, terrain texturizer, instance scatterer, grass scatterer, grass colorer. Based on textures and paintbrushes
 
 <p align="center">
-<img src="https://github.com/dip000/godot-landscaper/assets/58742147/fdf625b1-e015-422f-b6b8-c7f84d808553">
+<img src="https://github.com/user-attachments/assets/bfd10141-fedc-4150-957d-71ee44a58d63">
 <p/>
 
 
